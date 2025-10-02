@@ -5,7 +5,7 @@ Activities:
 
 - [x] Create an issue
 - [x] Add a task list within description
-- [ ] Link a pull request (PR) within description - test
-- [ ] Add an assignee
-- [ ] Apply a labl and a milestone
+- [x] Link a pull request (PR) within description
+- [x] Add an assignee
+- [x] Apply a label and a milestone
 - [ ] Create and apply a basic template
