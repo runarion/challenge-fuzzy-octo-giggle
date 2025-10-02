@@ -4,7 +4,7 @@ Repo for experiments on issues and related features
 Activities:
 
 - [x] Create an issue
-- [ ] Add a task list with description
+- [x] Add a task list with description
 - [ ] Link a pull request (PR) with description
 - [ ] Add an assignee
 - [ ] Apply a labl and a milestone
